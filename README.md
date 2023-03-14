@@ -1,3 +1,7 @@
+### Hi there 👋
+
+---
+
 <div id="header" align="center">
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
@@ -16,10 +20,8 @@
   </a>
 </div>
 </div>
-<br>
 
-### Hi there 👋
-
+---
 ### Languages and tools
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
