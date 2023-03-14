@@ -14,10 +14,13 @@
     <a href="mailto:justnekr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
-    
 </div>
-Hi there 👋
 </div>
+<br>
+
+### Hi there 👋
+
+### Languages and tools
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -34,7 +37,7 @@ Hi there 👋
 </div>
 
 
-### Hi there 👋
+
 
 
 
